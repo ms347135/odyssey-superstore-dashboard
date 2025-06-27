@@ -4,6 +4,13 @@ Welcome to Odyssey, an enterprise-grade analytics dashboard designed for the str
 
 Built with Python, Streamlit, and Plotly, this tool leverages AI-powered forecasting and interactive scenario planning to empower stakeholders with the ability to explore trends, identify opportunities, and make data-driven decisions with confidence.
 
+✨ Live Demo
+The application is deployed and live on Streamlit Community Cloud.
+
+Click the badge below or this link to access the live dashboard:
+
+https://odyssey-superstore.streamlit.app/
+
 ✨ Key Features
 AI Executive Summary: A dynamic, natural-language summary that provides an immediate, intelligent overview of the current data view.
 
@@ -20,7 +27,8 @@ Robust Filtering & Data Export: Granular controls for date range, market, and ca
 Polished, Professional UI: A custom-themed "Command Center" interface designed for clarity, impact, and a premium user experience.
 
 🖥️ Dashboard Preview
-![img.png](img.png)
+(Replace this with a new screenshot of your running "Odyssey" dashboard)
+
 
 🛠️ How to Run Locally
 Follow these steps to set up and run the project on your local machine.
