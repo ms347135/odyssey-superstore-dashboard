@@ -66,13 +66,6 @@ streamlit run dashboard.py
 
 Your web browser should automatically open with the dashboard running, typically at http://localhost:8501.
 
-📁 Project Structure
-odyssey-superstore-dashboard/
-├── .gitignore               # Files and folders to ignore for Git
-├── requirements.txt         # Project dependencies (includes prophet)
-├── dashboard.py             # The main Streamlit dashboard application
-└── README.md                # This file
-
 👨‍💻 Developer
 This dashboard was designed and developed by Malik Saad.
 
